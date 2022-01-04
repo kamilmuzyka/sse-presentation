@@ -1,5 +1,5 @@
 import React from 'react';
-import Counter from './5-redux';
+import Counter from './counter';
 
 const App = () => {
     return <Counter></Counter>;
