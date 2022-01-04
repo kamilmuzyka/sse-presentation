@@ -36,6 +36,7 @@ const Counter = () => {
                 <button onClick={toggle}>Toggle</button>
             </div>
             <ClosestFibonacci number={value}></ClosestFibonacci>
+            {/* Props chains, e.g. A -> B -> C -> ... */}
         </>
     );
 };
